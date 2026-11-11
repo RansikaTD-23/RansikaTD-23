@@ -186,15 +186,6 @@ src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 </p>
 
 
-<!-- ================= TROPHIES ================= -->
-
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img width="95%" src="https://github-profile-trophy.vercel.app/?username=RansikaTD-23&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
-</p>
-
----
 
 <!-- ================= CONNECT ================= -->
 
@@ -208,6 +199,10 @@ src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
   <a href="https://www.linkedin.com/in/dilum-ransika/">
     <img src="https://skillicons.dev/icons?i=linkedin" width="45" alt="LinkedIn" />
+  </a>
+
+   <a href="https://discord.com/users/697715275662884874">
+    <img src="https://skillicons.dev/icons?i=discord" width="45" alt="Discord" />
   </a>
 
 </p>
