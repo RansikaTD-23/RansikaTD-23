@@ -165,15 +165,17 @@ src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 ---
 
+
 <!-- ================= GITHUB STATISTICS ================= -->
 
 ### 📊 GitHub Statistics
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=RansikaTD-23&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Statistics" />
-
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RansikaTD-23&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
+  <img width="49%"
+    src="https://github-stats-extended.vercel.app/api?username=RansikaTD-23&show_icons=true&theme=tokyonight&hide_border=true"
+    alt="GitHub Statistics" />
 </p>
+
 
 <!-- ================= CONTRIBUTION STREAK ================= -->
 
@@ -183,13 +185,6 @@ src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
   <img width="70%" src="https://streak-stats.demolab.com?user=RansikaTD-23&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
-<!-- ================= CONTRIBUTION GRAPH ================= -->
-
-### 📈 Contribution Activity
-
-<p align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=RansikaTD-23&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Activity Graph" />
-</p>
 
 <!-- ================= TROPHIES ================= -->
 
@@ -228,4 +223,3 @@ src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:141321&height=120&section=footer" alt="Footer" />
 </p>
-```
