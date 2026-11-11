@@ -81,7 +81,7 @@ src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 </p>
 
-<!-- Add more projects here when you publish them -->
+<!-- projects -->
 
 ---
 
@@ -119,8 +119,8 @@ src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
   <img src="https://skillicons.dev/icons?i=github" width="45"/>
 </a>
 
-<!-- Replace with your actual LinkedIn profile URL -->
-<a href="YOUR_LINKEDIN_URL">
+<!-- LinkedIn profile URL -->
+<a href="https://www.linkedin.com/in/dilum-ransika/">
   <img src="https://skillicons.dev/icons?i=linkedin" width="45"/>
 </a>
 
