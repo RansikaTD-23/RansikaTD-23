@@ -76,15 +76,81 @@ src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 ---
 
-<!-- ================= PROJECTS ================= -->
+
+<!-- ================= FEATURED PROJECTS ================= -->
 
 ### 🚀 Featured Projects
 
-<p align="center">
+<table>
+<tr>
+<td width="30%" align="center">
+  <img src="https://images.openai.com/static-rsc-4/pyAEGWwzMj9oCazzdsgkJkHBYmS0UxnplXlDklrRvKkZzn5FsajfNOFlXbzho0oJMwRP1_a4I9QPihpqlpXFnSXbHLEKLSgXWGktbIWJv3Yxv_FzAh1tWlIC_aPN8o1GoeHZoa0rGqx_bs0aiT_Dqg8ij1lZ2T0F6aGvaDCSVDAG6C_zQ6Sq77E2YRauwQh0?purpose=fullsize"
+       width="100%"
+       alt="Movie Ticket Booking System"/>
+</td>
+<td width="70%">
+  <h3>🎬 Movie Ticket Booking System</h3>
+  <p>
+    A console-based movie ticket booking application
+    developed as a group project using C programming.
+  </p>
+  <p>
+    <img src="https://skillicons.dev/icons?i=c" height="35" alt="C"/>
+  </p>
   <a href="https://github.com/RansikaTD-23/CSC-1031-GA-Movie-Ticket-Booking-System">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RansikaTD-23&repo=CSC-1031-GA-Movie-Ticket-Booking-System&theme=tokyonight&hide_border=true" alt="Movie Ticket Booking System" />
+    <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repository"/>
   </a>
-</p>
+</td>
+</tr>
+
+<tr>
+<td width="30%" align="center">
+  <img src="https://i.pinimg.com/736x/95/e6/be/95e6bed21a430614d2cb150a4bcc25f3.jpg"
+       width="100%"
+       alt="Smart Hospital Resource Allocation System"/>
+</td>
+<td width="70%">
+  <h3>🏥 Smart Hospital Resource Allocation System</h3>
+  <p>
+    A software system designed to manage and allocate
+    hospital resources efficiently, helping improve
+    resource utilization and management using C programming.
+  </p>
+  <p>
+    <img src="https://skillicons.dev/icons?i=c" height="35" alt="C"/>
+  </p>
+  <a href="https://github.com/RansikaTD-23/Smart-Hospital-Resource-Allocation-System">
+    <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repository"/>
+  </a>
+</td>
+</tr>
+
+<!--  next project below -->
+
+<!--
+<tr>
+<td width="30%" align="center">
+  <img src="YOUR_PROJECT_BANNER_URL"
+       width="100%"
+       alt="Project Name"/>
+</td>
+<td width="70%">
+  <h3>💻 Project Name</h3>
+  <p>Short description of your project.</p>
+  <p>
+    <img src="https://skillicons.dev/icons?i=python" height="35" alt="Python"/>
+  </p>
+  <a href="YOUR_GITHUB_REPOSITORY_URL">
+    <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repository"/>
+  </a>
+</td>
+</tr>
+-->
+
+</table>
+
+---
+
 
 ---
 
